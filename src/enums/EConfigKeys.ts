@@ -1,3 +1,3 @@
 export enum EConfigKeys {
-  CONFIG = "CONFIG",
+  CONFIG_XPTO = 'config_key_xpto',
 }
